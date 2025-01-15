@@ -13,7 +13,7 @@ class StartScreen extends StatelessWidget {
           // Opacity(
           //   opacity: 0.5, //opacity คือระดับความหนาจางของรูปภาพอันนี้ไม่ดี
           Image.asset(
-            'assets/images/quiz-logo.png',
+            '../assets/images/quiz-logo.png',
             width: 300,
             color: Colors.white.withOpacity(
                 0.6), //คือระดับความหนาจางของรูปภาพแบบนี้ดีกว่าการประกาศทั้งหมดแบบอันบน
